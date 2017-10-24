@@ -1,1 +1,6 @@
-[]
+travis:
+  secure:
+    BINSTAR_TOKEN: tBdCj4lryEWN3VpeIpKztCytRQpA34fGsxQU/8SArrw5L3hov/8FmBm+CG3/MFwhv8Hl4fmApufPaD1FiJw67YRnhAQ5/aOtxGCd52pqgI/VrFjGig0Y6xGv1mjmbcCZTL+cXwqB1C+r382r9bWrz7oLue0SqHneflc+6QmUR5499vfgFm0BDwaFsEwmqhHc0fuYjC/Nn55rRJlgJFf6vVa0Ks10fpCRbQX+7Ow7MSK6El647HwDfAiBHp03V9uys2TBJfp+Ix7Xad64xzwRbYHj5SU0GUN/memBswBaePzNdql0AqjpKnWHDiZw/qzJ35OkzBqBkXSiGEFClwDBIkry0CQwrm/KNQy3DI/L30vuMj1cUMKTUVF2jhzRKmHuXtaG9JthHgUtkGTKI5d+wmpTwiz72tB2Q+A10sq2zlI+gl3mM+g9oRhd6t5YjJn1tEsPPALAf+yY04yGn5UqKzYthVk3rBtFjwoOYgjcq9AMh/nOS9iZAanZ2EQiKQeMIv83Mlx8SJzIqc/QHY+cPgGPwHGhQ3da62ABkgHcFhFIlsh8X9SPKs+cTqqSXDJ/w1LezPGMSq/fGdGM5bIN4/px58gvxb0TGE+B605tArj5p7iu/gnWcfxWBdr4dEyGU20f7lyTXUnETkrOM5WBR++Y//eg1aEcR6tN/ffchh8=
+appveyor:
+  secure:
+    BINSTAR_TOKEN: ipv/06DzgA7pzz2CIAtbPxZSsphDtF+JFyoWRnXkn3O8j7oRe3rzqj3LOoq2DZp4
