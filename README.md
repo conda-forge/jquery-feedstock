@@ -15,12 +15,15 @@ jQuery JavaScript Library
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/jquery-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/jquery-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/jquery-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/jquery-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/jquery/badges/version.svg)](https://anaconda.org/conda-forge/jquery)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/jquery/badges/downloads.svg)](https://anaconda.org/conda-forge/jquery)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-jquery-green.svg)](https://anaconda.org/conda-forge/jquery) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/jquery.svg)](https://anaconda.org/conda-forge/jquery) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/jquery.svg)](https://anaconda.org/conda-forge/jquery) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/jquery.svg)](https://anaconda.org/conda-forge/jquery) |
 
 Installing jquery
 =================
