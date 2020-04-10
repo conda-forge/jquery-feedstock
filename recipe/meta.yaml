@@ -1,6 +1,6 @@
 {% set name = "jquery" %}
-{% set version = "3.4.1" %}
-{% set sha256 = "4b58238a27515e242c3fca7f56b4b9d99229cf40f6d6f84554f55ce9d2633c19" %}
+{% set version = "3.5.0" %}
+{% set sha256 = "449b24d27fcf01827008cf6d1356693d3bac7e7f6ec4e54dd1f018ec7a5d521b" %}
 
 package:
   name: {{ name|lower }}
@@ -20,20 +20,20 @@ build:
 requirements:
   build:
     - nodejs
-    
+
 test:
   requires:
     - nodejs
   commands:
     - npm list -g jquery
-   
+
 
 about:
   home: https://github.com/jquery/jquery
   license: MIT
   license_family: MIT
   license_file: LICENSE.txt
-  summary: 'jQuery JavaScript Library'
+  summary: jQuery JavaScript Library
   description: |
     jQuery JavaScript Library  
   doc_url: https://api.jquery.com/
