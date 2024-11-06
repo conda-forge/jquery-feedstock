@@ -1,6 +1,6 @@
 {% set name = "jquery" %}
-{% set version = "3.6.1" %}
-{% set sha256 = "a970286414b5017b146425a313b8ca7f1d693371e060465dba2cecb1bf4ccd18" %}
+{% set version = "3.6.2" %}
+{% set sha256 = "0e95ab8abe801e5572accea8de5229fcfa6c5697bcc2be3fd1ddd59fd9aacccd" %}
 
 package:
   name: {{ name|lower }}
